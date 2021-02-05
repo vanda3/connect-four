@@ -5,6 +5,6 @@ Implemented algorithms for adversarial game Connect Four:
 - Alpha-beta Pruning
 
 ## Run Code
-javac ConnectFour.java
+javac ConnectFour.java  
 java ConnectFour
 
